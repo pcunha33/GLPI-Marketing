@@ -1,1 +1,1 @@
-# GLPI-Marketing
+# GLPI
